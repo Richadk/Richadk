@@ -1,6 +1,6 @@
 - # Hi, I’m Richad
 
-- # I’m interested in Code network and create or edit an application
+- # I’m interested in All related. Same technology I like
 
 - # I’m currently learning
 
