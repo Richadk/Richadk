@@ -1,7 +1,6 @@
 - # Hi, I’m Richad
 
-- # I’m interested in All related. Same technology I like
-
+- # I’m interested in Encoding-Code
 - # I’m currently learning
 
 - # I'm a student
