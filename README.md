@@ -1,4 +1,5 @@
-- # Hi, I’m Richad
+- # Hi, I’m Randi
+- 
 
 - # I’m interested in Encoding-Code
 
